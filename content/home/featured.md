@@ -25,6 +25,20 @@ content:
     tag: ''
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+ 
+content:
+  # Page type to display. E.g. post, talk, publication...
+  page_type: publication
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 0
+  # Filter on criteria
+  filters:
+    author: 'Lin, X.; Lécuyer, L.; Liu, X.; Triba, M.N.; Deschasaux-Tanguy, M.; Demidem, A.; Liu, Z.; Palama, T.; Rossary, A.; Vasson, M.-P.; Hercberg, S.; Galan, P.; Savarin, P.; Xu, G.; Touvier, M.'
+    category: ''
+    publication_type: 'Article'
+    tag: ''
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
 
 design:
   # Choose a view for the listings:
@@ -32,5 +46,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 1
 ---
