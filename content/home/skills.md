@@ -19,15 +19,15 @@ feature:
   - icon: r-project
     icon_pack: fab
     name: R
-#    description: 90%
+    description: 70%
   - icon: chart-line
     icon_pack: fas
-    name: Statistics
-#    description: 100%
+    name: Multivariate statistics
+    description: 80%
   - icon: camera-retro
     icon_pack: fas
     name: Analytical chemistry
-#    description: 10%
+    description: 80%
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
