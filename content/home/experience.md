@@ -22,28 +22,38 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Postdoctoral Fellow
+    company: Stanford University School of Medicine
     company_url: ''
-    company_logo: org-gc
+#    company_logo: org-gc
     location: California
-    date_start: '2021-01-01'
+    date_start: '2022-02'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: LC-MS based metabolomics, lipidomics, exposomics.
+#    description: |2-
+#        Responsibilities include:
+#        
+#        * Analysing
+#        * Modelling
+#        * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Postdoctoral Fellow
+    company: Icahn School of Medicine at Mount Sinai
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+#    company_logo: org-x
+    location: New York
+    date_start: '2021-11'
+    date_end: '2022-01'
+    description: Ultra-high-performance liquid chromatography-high-resolution accurate mass spectrometry based exposomics research.
+    
+  - title: Ph.D. in Chemistry
+    company: Icahn School of Medicine at Mount Sinai
+    company_url: ''
+#    company_logo: org-x
+    location: Paris Area, France
+    date_start: '2016-09'
+    date_end: '2021-03'
+    description: NMR and UHPLC-HRMS based Metabolomics: Application in Non-alcoholic fatty liver disease (NAFLD) and Prostate Cancer Biomarker Discovery.   
 
 design:
   columns: '2'
