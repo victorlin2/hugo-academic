@@ -25,8 +25,8 @@ feature:
     icon_pack: fas
     name: Multivariate statistics
   - description: 10%
-#    icon: camera-retro
-#    icon_pack: fas
+    icon: camera-retro
+    icon_pack: fas
     name: Analytical chemistry: NMR, LC/GC-MS
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
