@@ -72,4 +72,4 @@ highlight_name: true
 
 I am a Postdoctoral Fellow at Stanford University School of Medicine. My research interests center around analytical chemistry, especially LC-MS and NMR-based omics studies, including, but not limited to, metabolomics, lipidomics, exposomics, and application in biomedical and environmental research, such as metabolism, cancers and chemicals exposure biomarkers.
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
