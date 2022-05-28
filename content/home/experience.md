@@ -27,7 +27,7 @@ experience:
     company_url: ''
 #    company_logo: org-gc
     location: 'California'
-    date_start: 'Feb 2022'
+    date_start: '2022-02-01'
     date_end: ''
     description: 'LC-MS based metabolomics, lipidomics, exposomics.'
 #    description: |2-
@@ -42,8 +42,8 @@ experience:
     company_url: ''
 #    company_logo: org-x
     location: 'New York'
-    date_start: 'Nov 2021'
-    date_end: 'Jan 2022'
+    date_start: '2021-11-23'
+    date_end: '2022-01-31'
     description: 'Ultra-high-performance liquid chromatography-high-resolution accurate mass spectrometry based exposomics research.'
     
   - title: 'Ph.D. in Chemistry'
@@ -51,8 +51,8 @@ experience:
     company_url: ''
 #    company_logo: org-x
     location: 'Paris Area, France'
-    date_start: 'Sep 2016'
-    date_end: 'Mar 2021'
+    date_start: '2016-09-01'
+    date_end: '2022-03-12'
     description: 'NMR and UHPLC-HRMS based Metabolomics: Application in Non-alcoholic fatty liver disease (NAFLD) and Prostate Cancer Biomarker Discovery.'   
 
 design:
