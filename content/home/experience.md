@@ -22,14 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Postdoctoral Fellow
-    company: Stanford University School of Medicine
+  - title: 'Postdoctoral Fellow'
+    company: 'Stanford University School of Medicine'
     company_url: ''
 #    company_logo: org-gc
-    location: California
+    location: 'California'
     date_start: 'Feb 2022'
     date_end: ''
-    description: LC-MS based metabolomics, lipidomics, exposomics.
+    description: 'LC-MS based metabolomics, lipidomics, exposomics.'
 #    description: |2-
 #        Responsibilities include:
 #        
@@ -37,23 +37,23 @@ experience:
 #        * Modelling
 #        * Deploying
 
-  - title: Postdoctoral Fellow
-    company: Icahn School of Medicine at Mount Sinai
+  - title: 'Postdoctoral Fellow'
+    company: 'Icahn School of Medicine at Mount Sinai'
     company_url: ''
 #    company_logo: org-x
-    location: New York
+    location: 'New York'
     date_start: 'Nov 2021'
     date_end: 'Jan 2022'
-    description: Ultra-high-performance liquid chromatography-high-resolution accurate mass spectrometry based exposomics research.
+    description: 'Ultra-high-performance liquid chromatography-high-resolution accurate mass spectrometry based exposomics research.'
     
-  - title: Ph.D. in Chemistry
-    company: Icahn School of Medicine at Mount Sinai
+  - title: 'Ph.D. in Chemistry'
+    company: 'Icahn School of Medicine at Mount Sinai'
     company_url: ''
 #    company_logo: org-x
-    location: Paris Area, France
+    location: 'Paris Area, France'
     date_start: 'Sep 2016'
     date_end: 'Mar 2021'
-    description: NMR and UHPLC-HRMS based Metabolomics: Application in Non-alcoholic fatty liver disease (NAFLD) and Prostate Cancer Biomarker Discovery.   
+    description: 'NMR and UHPLC-HRMS based Metabolomics: Application in Non-alcoholic fatty liver disease (NAFLD) and Prostate Cancer Biomarker Discovery.'   
 
 design:
   columns: '2'
