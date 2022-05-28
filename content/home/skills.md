@@ -26,7 +26,7 @@ feature:
 #    description: 100%
   - icon: camera-retro
     icon_pack: fas
-    name: Analytical chemistry: NMR, LC/GC-MS
+    name: Analytical chemistry
 #    description: 10%
 
 # Uncomment to use emoji icons.
