@@ -25,7 +25,10 @@ content:
     tag: ''
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
- 
+
+title: Featured Publications
+subtitle: 'Spectrometry'
+
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
