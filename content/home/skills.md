@@ -23,11 +23,11 @@ feature:
   - icon: chart-line
     icon_pack: fas
     name: Multivariate statistics
-    description: 80%
+    description: 85%
   - icon: camera-retro
     icon_pack: fas
     name: Analytical chemistry
-    description: 80%
+    description: 90%
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
