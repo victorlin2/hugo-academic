@@ -47,7 +47,7 @@ experience:
     description: 'Ultra-high-performance liquid chromatography-high-resolution accurate mass spectrometry based exposomics research.'
     
   - title: 'Ph.D. in Chemistry'
-    company: 'Icahn School of Medicine at Mount Sinai'
+    company: 'Université Sorbonne Paris Nord'
     company_url: ''
 #    company_logo: org-x
     location: 'Paris Area, France'
