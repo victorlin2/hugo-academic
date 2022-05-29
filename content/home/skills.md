@@ -19,15 +19,15 @@ feature:
   - icon: camera-retro
     icon_pack: fas
     name: Analytical chemistry
-    description: 90%
+    description: 'I have 6 years of experience in Analytical chemistry.'
   - icon: chart-line
     icon_pack: fas
     name: Multivariate statistics
-    description: 85%
+    description: 'I have 6 years of experience using Multivariate statistics.'
   - icon: r-project
     icon_pack: fab
     name: R
-    description: 70%
+    description: 'I have 3 years of experience using R.'
     
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
