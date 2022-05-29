@@ -19,11 +19,11 @@ feature:
   - icon: camera-retro
     icon_pack: fas
     name: Analytical chemistry
-    description: 'I have 6 years of experience in Analytical chemistry.'
+    description: 'I have 6 years of experience in Analytical chemistry, using LC or GC-MS and NMR.'
   - icon: chart-line
     icon_pack: fas
     name: Multivariate statistics
-    description: 'I have 6 years of experience using Multivariate statistics.'
+    description: 'I have 6 years of experience in Multivariate statistics.'
   - icon: r-project
     icon_pack: fab
     name: R
