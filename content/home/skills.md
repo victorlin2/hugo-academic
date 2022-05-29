@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - icon: camera-retro
+  - icon: flask-vial
     icon_pack: fas
     name: Analytical chemistry
     description: 'I have 6 years of experience in Analytical chemistry, using LC or GC-MS and NMR.'
