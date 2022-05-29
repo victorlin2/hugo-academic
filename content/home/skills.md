@@ -16,8 +16,8 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - icon: flask-vial
-    icon_pack: fa
+  - icon: fa-flask-vial
+    icon_pack: fa-solid
     name: Analytical chemistry
     description: 'I have 6 years of experience in Analytical chemistry, using LC or GC-MS and NMR.'
   - icon: chart-line
