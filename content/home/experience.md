@@ -46,8 +46,8 @@ experience:
     date_end: '2022-01-31'
     description: 'Ultra-high-performance liquid chromatography-high-resolution accurate mass spectrometry based exposomics research.'
     
-  - title: 'Ph.D. in Chemistry'
-    company: 'Université Sorbonne Paris Nord'
+  - title: 'PhD in Chemistry'
+    company: 'Sorbonne Paris North University'
     company_url: ''
 #    company_logo: org-x
     location: 'Paris Area, France'
