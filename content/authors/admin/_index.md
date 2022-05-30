@@ -26,7 +26,7 @@ interests:
 education:
   courses:
     - course: PhD in Chemistry
-      institution: Université Sorbonne Paris Nord
+      institution: Sorbonne Paris North University
       year: 2020
     - course: MSc in Nutritional sciences
       institution: Université Clermont Auvergne
@@ -73,6 +73,6 @@ email: xiangping.lin@stanford.edu
 highlight_name: true
 ---
 
-I am a Postdoctoral Fellow at Stanford University School of Medicine. My research interests center around analytical chemistry, especially LC-MS and NMR-based omics studies, including, but not limited to, metabolomics, lipidomics, exposomics, and application in biomedical and environmental research, such as metabolism, cancers and chemicals exposure biomarkers.
+Xiangping Lin, PhD, is a Postdoctoral Fellow at Stanford University School of Medicine. He completed his PhD in Chemistry at Sorbonne Paris North University, Paris. Dr. Lin’s research focuses on analytical chemistry, specially LC-MS and NMR-based omics studies, including, but not limited to, metabolomics, lipidomics, exposomics, and application in biomedical and environmental research, such as metabolism, cancers, aging and chemicals exposure biomarkers.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
