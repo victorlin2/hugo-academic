@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - icon: flask
-    icon_pack: fab
+    icon_pack: fa
     name: Analytical chemistry
     description: '6 years + experience in Analytical chemistry, using LC or GC-MS and NMR.'
   - icon: chart-line
