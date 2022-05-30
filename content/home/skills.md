@@ -19,7 +19,7 @@ feature:
   - icon: flask
     icon_pack: fas
     name: Analytical chemistry
-    description: '6 years + experience in Analytical chemistry, using LC or GC-MS and NMR.'
+    description: '6 years + experience in Analytical chemistry, using LC-MS, GC-MS and NMR.'
   - icon: chart-line
     icon_pack: fas
     name: Multivariate statistics
