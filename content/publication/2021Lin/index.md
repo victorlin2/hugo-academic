@@ -1,4 +1,6 @@
- ---
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: "Plasma Metabolomics for Discovery of Early Metabolic Markers of Prostate Cancer Based on Ultra-High-Performance Liquid Chromatography-High Resolution Mass Spectrometry"
 authors:
 - Lin, X.
@@ -43,7 +45,7 @@ featured: true
 
 # links:
 name: Lin et al, 2021"
- url: 'https://doi.org/10.3390/cancers13133140'
+url: 'https://doi.org/10.3390/cancers13133140'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
