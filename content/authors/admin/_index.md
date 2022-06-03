@@ -73,6 +73,6 @@ email: xiangping.lin@stanford.edu
 highlight_name: true
 ---
 
-Xiangping Lin, PhD, is a Postdoctoral Fellow at Stanford University School of Medicine. He completed his PhD in Chemistry at Sorbonne Paris North University, Paris. Dr. Lin’s research focuses on analytical chemistry, specially LC-MS and NMR-based omics studies, including, but not limited to, metabolomics, lipidomics, exposomics, and application in biomedical and environmental research, such as metabolism, cancers, aging and chemicals exposure biomarkers.
+Xiangping Lin, Ph.D., is a Postdoctoral Fellow at Stanford University School of Medicine. He completed his Ph.D. in Chemistry at Sorbonne Paris North University, Paris. Dr. Lin’s research focuses on analytical chemistry, especially LC-MS (Orbitrap, Q-TOF, QqQ) and NMR-based omics studies, including, but not limited to, metabolomics, lipidomics, exposomics, and application in biomedical and environmental research, such as cancers, chemicals exposure biomarkers, aging, and metabolism.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
